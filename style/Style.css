@@ -1,0 +1,39 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+
+@font-face {
+    font-family: 'aovel_sansrounded';
+    src: url('fonts/asansrounded-webfont.woff2') format('woff2'),
+         url('fonts/asansrounded-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body{
+	font-family: 'aovel_sansrounded';
+	font-style: normal;
+}
+
+div{
+	display: inline-block;
+	background-color: rgb(40,150,245);
+	width: 30%;
+	height: 50px;
+	overflow: scrolls;
+	border: solid rgba(230,140,30,0.8);
+	margin: 20px;
+}
+
+span{
+	display: inline-block;
+	width: 30%;
+	height: 30%;
+	float: left;
+}
+
+h1{
+	display: block;
+}
+
