@@ -18,7 +18,7 @@ body{
 
 div{
 	display: inline-block;
-	background-color: rgb(40,150,245);
+	background-image: url(http://a2.assets.nationalgeographic.es/soc_photo/2928.600x450.jpg);
 	width: 30%;
 	height: 50px;
 	overflow: scrolls;
